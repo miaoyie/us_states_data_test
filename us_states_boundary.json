@@ -367,7 +367,7 @@
         "latitude": 62.0598,
         "longitude": -149.9538,
         "covid deaths": 220,
-        "covid cases": 0
+        "covid cases": 51630
       }
     },
     {
@@ -475,8 +475,8 @@
         "color": "#ff0000",
         "latitude": 32.5752,
         "longitude": -86.68350000000001,
-        "covid deaths": 5098,
-        "covid cases": 336053
+        "covid deaths": 6120,
+        "covid cases": 422598
       }
     },
     {
@@ -732,8 +732,8 @@
         "color": "#ff0000",
         "latitude": 34.7536,
         "longitude": -92.1396,
-        "covid deaths": 3562,
-        "covid cases": 218968
+        "covid deaths": 4311,
+        "covid cases": 271154
       }
     },
     {
@@ -1097,8 +1097,8 @@
         "color": "#ff0000",
         "latitude": 34.16645,
         "longitude": -111.93005,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 11266,
+        "covid cases": 673882
       }
     },
     {
@@ -1567,7 +1567,7 @@
         "latitude": 37.26235,
         "longitude": -119.3912,
         "covid deaths": 33593,
-        "covid cases": 2989781
+        "covid cases": 3006583
       }
     },
     {
@@ -1611,8 +1611,8 @@
         "color": "#880000",
         "latitude": 38.997749999999996,
         "longitude": -105.54565,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 5454,
+        "covid cases": 376921
       }
     },
     {
@@ -1764,8 +1764,8 @@
         "color": "#880000",
         "latitude": 41.501,
         "longitude": -72.7573,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 6594,
+        "covid cases": 223422
       }
     },
     {
@@ -1865,8 +1865,8 @@
         "color": "#880000",
         "latitude": 39.1389,
         "longitude": -75.32225,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 1016,
+        "covid cases": 70294
       }
     },
     {
@@ -2239,7 +2239,7 @@
         "latitude": 27.6997,
         "longitude": -83.7227,
         "covid deaths": 24136,
-        "covid cases": 0
+        "covid cases": 1571271
       }
     },
     {
@@ -2551,8 +2551,8 @@
         "color": "#880000",
         "latitude": 32.67855,
         "longitude": -83.15209999999999,
-        "covid deaths": 10737,
-        "covid cases": 656169
+        "covid deaths": 11906,
+        "covid cases": 791322
       }
     },
     {
@@ -2696,8 +2696,8 @@
         "color": "#00ff00",
         "latitude": 20.5243,
         "longitude": -157.50965000000002,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 319,
+        "covid cases": 24309
       }
     },
     {
@@ -2957,7 +2957,7 @@
         "color": "#00ff00",
         "latitude": 41.9315,
         "longitude": -93.39475,
-        "covid deaths": 0,
+        "covid deaths": 4323,
         "covid cases": 305151
       }
     },
@@ -3474,8 +3474,8 @@
         "color": "#00ff00",
         "latitude": 45.49445,
         "longitude": -114.14215,
-        "covid deaths": 1415,
-        "covid cases": 127147
+        "covid deaths": 1609,
+        "covid cases": 155617
       }
     },
     {
@@ -3779,8 +3779,8 @@
         "color": "#00ffff",
         "latitude": 39.7505,
         "longitude": -89.26665,
-        "covid deaths": 18288,
-        "covid cases": 991348
+        "covid deaths": 20052,
+        "covid cases": 1071307
       }
     },
     {
@@ -4144,8 +4144,8 @@
         "color": "#00ff00",
         "latitude": 39.76645,
         "longitude": -86.45349999999999,
-        "covid deaths": 8936,
-        "covid cases": 590211
+        "covid deaths": 9310,
+        "covid cases": 593262
       }
     },
     {
@@ -4241,8 +4241,8 @@
         "color": "#008800",
         "latitude": 38.500699999999995,
         "longitude": -98.3276,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 3502,
+        "covid cases": 259226
       }
     },
     {
@@ -4586,8 +4586,8 @@
         "color": "#008800",
         "latitude": 37.8185,
         "longitude": -85.78399999999999,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 3428,
+        "covid cases": 329816
       }
     },
     {
@@ -5047,8 +5047,8 @@
         "color": "#008800",
         "latitude": 30.952849999999998,
         "longitude": -91.39255,
-        "covid deaths": 7742,
-        "covid cases": 326101
+        "covid deaths": 8203,
+        "covid cases": 368980
       }
     },
     {
@@ -5272,8 +5272,8 @@
         "color": "#0000ff",
         "latitude": 42.024,
         "longitude": -71.62395000000001,
-        "covid deaths": 13372,
-        "covid cases": 448311
+        "covid deaths": 13652,
+        "covid cases": 470140
       }
     },
     {
@@ -5737,8 +5737,8 @@
         "color": "#0000ff",
         "latitude": 38.80545,
         "longitude": -77.1721,
-        "covid deaths": 6394,
-        "covid cases": 326503
+        "covid deaths": 6567,
+        "covid cases": 326648
       }
     },
     {
@@ -5987,7 +5987,7 @@
         "latitude": 45.1866,
         "longitude": -68.97285,
         "covid deaths": 511,
-        "covid cases": 27511
+        "covid cases": 33559
       }
     },
     {
@@ -6475,8 +6475,8 @@
         "color": "#FF0000",
         "latitude": 45.00035,
         "longitude": -86.2698,
-        "covid deaths": 13822,
-        "covid cases": 534921
+        "covid deaths": 14658,
+        "covid cases": 580394
       }
     },
     {
@@ -6852,8 +6852,8 @@
         "color": "#0000ff",
         "latitude": 46.44425,
         "longitude": -93.36115000000001,
-        "covid deaths": 5710,
-        "covid cases": 428519
+        "covid deaths": 5995,
+        "covid cases": 446448
       }
     },
     {
@@ -7138,7 +7138,7 @@
         "latitude": 38.30695,
         "longitude": -92.42660000000001,
         "covid deaths": 6647,
-        "covid cases": 460428
+        "covid cases": 468106
       }
     },
     {
@@ -7498,8 +7498,8 @@
         "color": "#000088",
         "latitude": 32.549,
         "longitude": -89.87915000000001,
-        "covid deaths": 4162,
-        "covid cases": 163816
+        "covid deaths": 5521,
+        "covid cases": 252475
       }
     },
     {
@@ -8016,8 +8016,8 @@
         "color": "#ffff00",
         "latitude": 35.1773,
         "longitude": -79.8665,
-        "covid deaths": 7511,
-        "covid cases": 614114
+        "covid deaths": 8125,
+        "covid cases": 675272
       }
     },
     {
@@ -8133,8 +8133,8 @@
         "color": "#ffff00",
         "latitude": 47.4661,
         "longitude": -100.3086,
-        "covid deaths": 0,
-        "covid cases": 92058
+        "covid deaths": 1406,
+        "covid cases": 95886
       }
     },
     {
@@ -8330,8 +8330,8 @@
         "color": "#ffff00",
         "latitude": 41.4999,
         "longitude": -99.6817,
-        "covid deaths": 506,
-        "covid cases": 59013
+        "covid deaths": 1893,
+        "covid cases": 182139
       }
     },
     {
@@ -8783,8 +8783,8 @@
         "color": "#00ffff",
         "latitude": 44.0022,
         "longitude": -71.55875,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 933,
+        "covid cases": 56864
       }
     },
     {
@@ -9024,8 +9024,8 @@
         "color": "#ffff00",
         "latitude": 40.10325,
         "longitude": -74.72964999999999,
-        "covid deaths": 18348,
-        "covid cases": 565097
+        "covid deaths": 20439,
+        "covid cases": 627221
       }
     },
     {
@@ -9831,8 +9831,8 @@
         "color": "#00ffff",
         "latitude": 42.74625,
         "longitude": -75.75704999999999,
-        "covid deaths": 35697,
-        "covid cases": 1233647
+        "covid deaths": 40570,
+        "covid cases": 1242818
       }
     },
     {
@@ -10024,8 +10024,8 @@
         "color": "#ff8800",
         "latitude": 40.34855,
         "longitude": -82.668,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 10200,
+        "covid cases": 826754
       }
     },
     {
@@ -10238,7 +10238,7 @@
         "latitude": 35.320049999999995,
         "longitude": -98.72104999999999,
         "covid deaths": 2987,
-        "covid cases": 0
+        "covid cases": 354979
       }
     },
     {
@@ -10762,8 +10762,8 @@
         "color": "#ff00ff",
         "latitude": 44.14215,
         "longitude": -120.59555,
-        "covid deaths": 138,
-        "covid cases": 10738
+        "covid deaths": 1801,
+        "covid cases": 133205
       }
     },
     {
@@ -10915,8 +10915,8 @@
         "color": "#ff00ff",
         "latitude": 41.118300000000005,
         "longitude": -77.61564999999999,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 19310,
+        "covid cases": 772747
       }
     },
     {
@@ -11020,8 +11020,8 @@
         "color": "#ffff00",
         "latitude": 41.60025,
         "longitude": -71.4791,
-        "covid deaths": 924,
-        "covid cases": 0
+        "covid deaths": 2005,
+        "covid cases": 104443
       }
     },
     {
@@ -11253,8 +11253,8 @@
         "color": "#ff8800",
         "latitude": 33.626400000000004,
         "longitude": -80.9212,
-        "covid deaths": 5654,
-        "covid cases": 351887
+        "covid deaths": 6237,
+        "covid cases": 388184
       }
     },
     {
@@ -11382,8 +11382,8 @@
         "color": "#ff8800",
         "latitude": 44.210350000000005,
         "longitude": -100.24545,
-        "covid deaths": 0,
-        "covid cases": 94557
+        "covid deaths": 1656,
+        "covid cases": 105544
       }
     },
     {
@@ -11635,8 +11635,8 @@
         "color": "#ff8800",
         "latitude": 35.83775,
         "longitude": -85.98245,
-        "covid deaths": 1798,
-        "covid cases": 574647
+        "covid deaths": 8312,
+        "covid cases": 672292
       }
     },
     {
@@ -12344,8 +12344,8 @@
         "color": "#00ff88",
         "latitude": 31.171349999999997,
         "longitude": -100.0621,
-        "covid deaths": 21053,
-        "covid cases": 1879654
+        "covid deaths": 32747,
+        "covid cases": 2127334
       }
     },
     {
@@ -12397,8 +12397,8 @@
         "color": "#00ff88",
         "latitude": 39.49875,
         "longitude": -111.5483,
-        "covid deaths": 551,
-        "covid cases": 77905
+        "covid deaths": 1493,
+        "covid cases": 323837
       }
     },
     {
@@ -13030,8 +13030,8 @@
         "color": "#00ff88",
         "latitude": 38.0043,
         "longitude": -79.323,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 5729,
+        "covid cases": 439305
       }
     },
     {
@@ -13479,8 +13479,8 @@
         "color": "#88ff00",
         "latitude": 43.8721,
         "longitude": -72.4665,
-        "covid deaths": 0,
-        "covid cases": 0
+        "covid deaths": 163,
+        "covid cases": 10057
       }
     },
     {
@@ -13996,8 +13996,8 @@
         "color": "#88ff00",
         "latitude": 47.2733,
         "longitude": -120.8922,
-        "covid deaths": 1949,
-        "covid cases": 281061
+        "covid deaths": 3971,
+        "covid cases": 293296
       }
     },
     {
@@ -14281,8 +14281,8 @@
         "color": "#0088ff",
         "latitude": 44.902699999999996,
         "longitude": -89.55435,
-        "covid deaths": 5497,
-        "covid cases": 523124
+        "covid deaths": 5907,
+        "covid cases": 568166
       }
     },
     {
@@ -14686,8 +14686,8 @@
         "color": "#0088ff",
         "latitude": 38.914550000000006,
         "longitude": -80.1851,
-        "covid deaths": 1524,
-        "covid cases": 87545
+        "covid deaths": 1776,
+        "covid cases": 108821
       }
     },
     {
@@ -14731,8 +14731,8 @@
         "color": "#ff0088",
         "latitude": 42.9992,
         "longitude": -107.55475,
-        "covid deaths": 0,
-        "covid cases": 42173
+        "covid deaths": 522,
+        "covid cases": 49363
       }
     }
   ]
