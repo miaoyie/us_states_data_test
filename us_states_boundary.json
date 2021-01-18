@@ -357,8 +357,9 @@
         ]
       },
       "properties": {
-        "id": "0",
+        "id": "1",
         "name": "Alaska",
+        "color": "#ff0000",
         "latitude": 61.42329302325581,
         "longitude": -153.63704651162794
       }
@@ -459,8 +460,9 @@
         ]
       },
       "properties": {
-        "id": "1",
+        "id": "2",
         "name": "Alabama",
+        "color": "#ff0000",
         "latitude": 32.14130476190476,
         "longitude": -86.69854761904763
       }
@@ -709,8 +711,9 @@
         ]
       },
       "properties": {
-        "id": "2",
+        "id": "3",
         "name": "Arkansas",
+        "color": "#ff0000",
         "latitude": 34.5301224137931,
         "longitude": -91.28417068965516
       }
@@ -1067,8 +1070,9 @@
         ]
       },
       "properties": {
-        "id": "3",
+        "id": "4",
         "name": "Arizona",
+        "color": "#ff0000",
         "latitude": 34.444162352941184,
         "longitude": -114.26792588235294
       }
@@ -1529,8 +1533,9 @@
         ]
       },
       "properties": {
-        "id": "4",
+        "id": "5",
         "name": "California",
+        "color": "#880000",
         "latitude": 35.11570810810811,
         "longitude": -117.03099009009009
       }
@@ -1567,8 +1572,9 @@
         ]
       },
       "properties": {
-        "id": "5",
+        "id": "6",
         "name": "Colorado",
+        "color": "#880000",
         "latitude": 38.599180000000004,
         "longitude": -106.24686
       }
@@ -1713,8 +1719,9 @@
         ]
       },
       "properties": {
-        "id": "6",
+        "id": "7",
         "name": "Connecticut",
+        "color": "#880000",
         "latitude": 41.588453125,
         "longitude": -72.747946875
       }
@@ -1807,8 +1814,9 @@
         ]
       },
       "properties": {
-        "id": "7",
+        "id": "8",
         "name": "Delaware",
+        "color": "#880000",
         "latitude": 39.28224210526316,
         "longitude": -75.46881578947368
       }
@@ -2173,8 +2181,9 @@
         ]
       },
       "properties": {
-        "id": "8",
+        "id": "9",
         "name": "Florida",
+        "color": "#8800ff",
         "latitude": 29.464028735632183,
         "longitude": -83.37135287356323
       }
@@ -2479,8 +2488,9 @@
         ]
       },
       "properties": {
-        "id": "9",
+        "id": "10",
         "name": "Georgia",
+        "color": "#880000",
         "latitude": 32.5739875,
         "longitude": -82.9491625
       }
@@ -2617,8 +2627,9 @@
         ]
       },
       "properties": {
-        "id": "10",
+        "id": "11",
         "name": "Hawaii",
+        "color": "#00ff00",
         "latitude": 20.661773333333333,
         "longitude": -157.06352666666666
       }
@@ -2871,8 +2882,9 @@
         ]
       },
       "properties": {
-        "id": "11",
+        "id": "12",
         "name": "Iowa",
+        "color": "#00ff00",
         "latitude": 41.95871525423729,
         "longitude": -93.13682881355933
       }
@@ -3381,8 +3393,9 @@
         ]
       },
       "properties": {
-        "id": "12",
+        "id": "13",
         "name": "Idaho",
+        "color": "#00ff00",
         "latitude": 45.28926016260162,
         "longitude": -115.46062520325204
       }
@@ -3679,8 +3692,9 @@
         ]
       },
       "properties": {
-        "id": "13",
+        "id": "14",
         "name": "Illinois",
+        "color": "#00ffff",
         "latitude": 39.435768571428575,
         "longitude": -89.61151428571429
       }
@@ -4037,8 +4051,9 @@
         ]
       },
       "properties": {
-        "id": "14",
+        "id": "15",
         "name": "Indiana",
+        "color": "#00ff00",
         "latitude": 38.44966235294118,
         "longitude": -87.07057999999999
       }
@@ -4127,8 +4142,9 @@
         ]
       },
       "properties": {
-        "id": "15",
+        "id": "16",
         "name": "Kansas",
+        "color": "#008800",
         "latitude": 39.35146111111111,
         "longitude": -96.48292222222223
       }
@@ -4465,8 +4481,9 @@
         ]
       },
       "properties": {
-        "id": "16",
+        "id": "17",
         "name": "Kentucky",
+        "color": "#008800",
         "latitude": 37.80897,
         "longitude": -86.04640125
       }
@@ -4919,8 +4936,9 @@
         ]
       },
       "properties": {
-        "id": "17",
+        "id": "18",
         "name": "Louisiana",
+        "color": "#008800",
         "latitude": 31.00712201834863,
         "longitude": -92.22497431192659
       }
@@ -5137,8 +5155,9 @@
         ]
       },
       "properties": {
-        "id": "18",
+        "id": "19",
         "name": "Massachusetts",
+        "color": "#0000ff",
         "latitude": 42.165574,
         "longitude": -71.61171399999999
       }
@@ -5595,8 +5614,9 @@
         ]
       },
       "properties": {
-        "id": "19",
+        "id": "20",
         "name": "Maryland",
+        "color": "#0000ff",
         "latitude": 39.01735181818183,
         "longitude": -77.59983636363636
       }
@@ -5837,8 +5857,9 @@
         ]
       },
       "properties": {
-        "id": "20",
+        "id": "21",
         "name": "Maine",
+        "color": "#0000ff",
         "latitude": 45.46474107142858,
         "longitude": -69.26075714285714
       }
@@ -6319,8 +6340,9 @@
         ]
       },
       "properties": {
-        "id": "21",
+        "id": "22",
         "name": "Michigan",
+        "color": "#FF0000",
         "latitude": 44.98074913793103,
         "longitude": -85.34253965517243
       }
@@ -6689,8 +6711,9 @@
         ]
       },
       "properties": {
-        "id": "22",
+        "id": "23",
         "name": "Minnesota",
+        "color": "#0000ff",
         "latitude": 47.33683409090909,
         "longitude": -93.51948068181818
       }
@@ -6967,8 +6990,9 @@
         ]
       },
       "properties": {
-        "id": "23",
+        "id": "24",
         "name": "Missouri",
+        "color": "#000088",
         "latitude": 38.45465076923077,
         "longitude": -91.45436307692309
       }
@@ -7321,8 +7345,9 @@
         ]
       },
       "properties": {
-        "id": "24",
+        "id": "25",
         "name": "Mississippi",
+        "color": "#000088",
         "latitude": 32.82665833333334,
         "longitude": -90.68495952380951
       }
@@ -7567,8 +7592,9 @@
         ]
       },
       "properties": {
-        "id": "25",
+        "id": "26",
         "name": "Montana",
+        "color": "#000088",
         "latitude": 45.74692280701754,
         "longitude": -113.08964561403509
       }
@@ -7825,8 +7851,9 @@
         ]
       },
       "properties": {
-        "id": "26",
+        "id": "27",
         "name": "North Carolina",
+        "color": "#ffff00",
         "latitude": 35.476725,
         "longitude": -81.14174833333333
       }
@@ -7935,8 +7962,9 @@
         ]
       },
       "properties": {
-        "id": "27",
+        "id": "28",
         "name": "North Dakota",
+        "color": "#ffff00",
         "latitude": 47.788700000000006,
         "longitude": -97.88609565217392
       }
@@ -8125,8 +8153,9 @@
         ]
       },
       "properties": {
-        "id": "28",
+        "id": "29",
         "name": "Nebraska",
+        "color": "#ffff00",
         "latitude": 41.920065116279076,
         "longitude": -97.35512325581395
       }
@@ -8571,8 +8600,9 @@
         ]
       },
       "properties": {
-        "id": "29",
+        "id": "30",
         "name": "New Hampshire",
+        "color": "#00ffff",
         "latitude": 43.9991308411215,
         "longitude": -71.7222953271028
       }
@@ -8805,8 +8835,9 @@
         ]
       },
       "properties": {
-        "id": "30",
+        "id": "31",
         "name": "New Jersey",
+        "color": "#ffff00",
         "latitude": 40.28383518518519,
         "longitude": -74.78467037037038
       }
@@ -8859,8 +8890,9 @@
         ]
       },
       "properties": {
-        "id": "31",
+        "id": "32",
         "name": "New Mexico",
+        "color": "#00ffff",
         "latitude": 33.469766666666665,
         "longitude": -106.97646666666668
       }
@@ -9069,8 +9101,9 @@
         ]
       },
       "properties": {
-        "id": "32",
+        "id": "33",
         "name": "Nevada",
+        "color": "#00ffff",
         "latitude": 36.66445625,
         "longitude": -115.0815625
       }
@@ -9591,8 +9624,9 @@
         ]
       },
       "properties": {
-        "id": "33",
+        "id": "34",
         "name": "New York",
+        "color": "#00ffff",
         "latitude": 43.096184920634926,
         "longitude": -74.97289682539683
       }
@@ -9777,8 +9811,9 @@
         ]
       },
       "properties": {
-        "id": "34",
+        "id": "35",
         "name": "Ohio",
+        "color": "#ff8800",
         "latitude": 39.66713333333333,
         "longitude": -82.55400714285715
       }
@@ -9983,8 +10018,9 @@
         ]
       },
       "properties": {
-        "id": "35",
+        "id": "36",
         "name": "Oklahoma",
+        "color": "#ff00ff",
         "latitude": 34.41582340425532,
         "longitude": -97.51167234042553
       }
@@ -10501,8 +10537,9 @@
         ]
       },
       "properties": {
-        "id": "36",
+        "id": "37",
         "name": "Oregon",
+        "color": "#ff00ff",
         "latitude": 45.1477408,
         "longitude": -120.09111439999998
       }
@@ -10647,8 +10684,9 @@
         ]
       },
       "properties": {
-        "id": "37",
+        "id": "38",
         "name": "Pennsylvania",
+        "color": "#ff00ff",
         "latitude": 41.018734375,
         "longitude": -76.062546875
       }
@@ -10745,8 +10783,9 @@
         ]
       },
       "properties": {
-        "id": "38",
+        "id": "39",
         "name": "Rhode Island",
+        "color": "#ffff00",
         "latitude": 41.6254,
         "longitude": -71.469155
       }
@@ -10971,8 +11010,9 @@
         ]
       },
       "properties": {
-        "id": "39",
+        "id": "40",
         "name": "South Carolina",
+        "color": "#ff8800",
         "latitude": 33.67565961538462,
         "longitude": -81.51581153846153
       }
@@ -11093,8 +11133,9 @@
         ]
       },
       "properties": {
-        "id": "40",
+        "id": "41",
         "name": "South Dakota",
+        "color": "#ff8800",
         "latitude": 43.69302307692308,
         "longitude": -97.86478846153847
       }
@@ -11339,8 +11380,9 @@
         ]
       },
       "properties": {
-        "id": "41",
+        "id": "42",
         "name": "Tennessee",
+        "color": "#ff8800",
         "latitude": 35.94751754385965,
         "longitude": -85.904749122807
       }
@@ -12041,8 +12083,9 @@
         ]
       },
       "properties": {
-        "id": "42",
+        "id": "43",
         "name": "Texas",
+        "color": "#00ff88",
         "latitude": 30.98586959064327,
         "longitude": -98.38920701754387
       }
@@ -12087,8 +12130,9 @@
         ]
       },
       "properties": {
-        "id": "43",
+        "id": "44",
         "name": "Utah",
+        "color": "#00ff88",
         "latitude": 39.570128571428576,
         "longitude": -111.76177142857144
       }
@@ -12713,8 +12757,9 @@
         ]
       },
       "properties": {
-        "id": "44",
+        "id": "45",
         "name": "Virginia",
+        "color": "#00ff88",
         "latitude": 37.890383552631576,
         "longitude": -79.47181052631579
       }
@@ -13155,8 +13200,9 @@
         ]
       },
       "properties": {
-        "id": "45",
+        "id": "46",
         "name": "Vermont",
+        "color": "#88ff00",
         "latitude": 44.055382075471705,
         "longitude": -72.63491698113208
       }
@@ -13665,8 +13711,9 @@
         ]
       },
       "properties": {
-        "id": "46",
+        "id": "47",
         "name": "Washington",
+        "color": "#88ff00",
         "latitude": 46.581823577235774,
         "longitude": -121.55245691056912
       }
@@ -13943,8 +13990,9 @@
         ]
       },
       "properties": {
-        "id": "47",
+        "id": "48",
         "name": "Wisconsin",
+        "color": "#0088ff",
         "latitude": 44.88173384615384,
         "longitude": -89.85197538461537
       }
@@ -14341,8 +14389,9 @@
         ]
       },
       "properties": {
-        "id": "48",
+        "id": "49",
         "name": "West Virginia",
+        "color": "#0088ff",
         "latitude": 38.74605157894736,
         "longitude": -80.31805999999999
       }
@@ -14379,8 +14428,9 @@
         ]
       },
       "properties": {
-        "id": "49",
+        "id": "50",
         "name": "Wyoming",
+        "color": "#ff0088",
         "latitude": 42.59952,
         "longitude": -106.85384000000002
       }
