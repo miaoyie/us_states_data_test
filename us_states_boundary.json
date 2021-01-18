@@ -364,8 +364,10 @@
         "id": "1",
         "name": "Alaska",
         "color": "#ff0000",
-        "latitude": 61.42329302325581,
-        "longitude": -153.63704651162794
+        "latitude": 62.0598,
+        "longitude": -149.9538,
+        "covid deaths": 220.0,
+        "covid cases": 0.0
       }
     },
     {
@@ -471,8 +473,10 @@
         "id": "2",
         "name": "Alabama",
         "color": "#ff0000",
-        "latitude": 32.14130476190476,
-        "longitude": -86.69854761904763
+        "latitude": 32.5752,
+        "longitude": -86.68350000000001,
+        "covid deaths": 5098.0,
+        "covid cases": 336053.0
       }
     },
     {
@@ -726,8 +730,10 @@
         "id": "3",
         "name": "Arkansas",
         "color": "#ff0000",
-        "latitude": 34.5301224137931,
-        "longitude": -91.28417068965516
+        "latitude": 34.7536,
+        "longitude": -92.1396,
+        "covid deaths": 3562.0,
+        "covid cases": 218968.0
       }
     },
     {
@@ -1089,8 +1095,10 @@
         "id": "4",
         "name": "Arizona",
         "color": "#ff0000",
-        "latitude": 34.444162352941184,
-        "longitude": -114.26792588235294
+        "latitude": 34.16645,
+        "longitude": -111.93005,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -1556,8 +1564,10 @@
         "id": "5",
         "name": "California",
         "color": "#880000",
-        "latitude": 35.11570810810811,
-        "longitude": -117.03099009009009
+        "latitude": 37.26235,
+        "longitude": -119.3912,
+        "covid deaths": 33593.0,
+        "covid cases": 2989781.0
       }
     },
     {
@@ -1599,8 +1609,10 @@
         "id": "6",
         "name": "Colorado",
         "color": "#880000",
-        "latitude": 38.599180000000004,
-        "longitude": -106.24686
+        "latitude": 38.997749999999996,
+        "longitude": -105.54565,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -1750,8 +1762,10 @@
         "id": "7",
         "name": "Connecticut",
         "color": "#880000",
-        "latitude": 41.588453125,
-        "longitude": -72.747946875
+        "latitude": 41.501,
+        "longitude": -72.7573,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -1849,8 +1863,10 @@
         "id": "8",
         "name": "Delaware",
         "color": "#880000",
-        "latitude": 39.28224210526316,
-        "longitude": -75.46881578947368
+        "latitude": 39.1389,
+        "longitude": -75.32225,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -2220,8 +2236,10 @@
         "id": "9",
         "name": "Florida",
         "color": "#8800ff",
-        "latitude": 29.464028735632183,
-        "longitude": -83.37135287356323
+        "latitude": 27.6997,
+        "longitude": -83.7227,
+        "covid deaths": 24136.0,
+        "covid cases": 0.0
       }
     },
     {
@@ -2531,8 +2549,10 @@
         "id": "10",
         "name": "Georgia",
         "color": "#880000",
-        "latitude": 32.5739875,
-        "longitude": -82.9491625
+        "latitude": 32.67855,
+        "longitude": -83.15209999999999,
+        "covid deaths": 10737.0,
+        "covid cases": 656169.0
       }
     },
     {
@@ -2674,8 +2694,10 @@
         "id": "11",
         "name": "Hawaii",
         "color": "#00ff00",
-        "latitude": 20.661773333333333,
-        "longitude": -157.06352666666666
+        "latitude": 20.5243,
+        "longitude": -157.50965000000002,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -2933,8 +2955,10 @@
         "id": "12",
         "name": "Iowa",
         "color": "#00ff00",
-        "latitude": 41.95871525423729,
-        "longitude": -93.13682881355933
+        "latitude": 41.9315,
+        "longitude": -93.39475,
+        "covid deaths": NaN,
+        "covid cases": 305151.0
       }
     },
     {
@@ -3448,8 +3472,10 @@
         "id": "13",
         "name": "Idaho",
         "color": "#00ff00",
-        "latitude": 45.28926016260162,
-        "longitude": -115.46062520325204
+        "latitude": 45.49445,
+        "longitude": -114.14215,
+        "covid deaths": 1415.0,
+        "covid cases": 127147.0
       }
     },
     {
@@ -3751,8 +3777,10 @@
         "id": "14",
         "name": "Illinois",
         "color": "#00ffff",
-        "latitude": 39.435768571428575,
-        "longitude": -89.61151428571429
+        "latitude": 39.7505,
+        "longitude": -89.26665,
+        "covid deaths": 18288.0,
+        "covid cases": 991348.0
       }
     },
     {
@@ -4114,8 +4142,10 @@
         "id": "15",
         "name": "Indiana",
         "color": "#00ff00",
-        "latitude": 38.44966235294118,
-        "longitude": -87.07057999999999
+        "latitude": 39.76645,
+        "longitude": -86.45349999999999,
+        "covid deaths": 8936.0,
+        "covid cases": 590211.0
       }
     },
     {
@@ -4209,8 +4239,10 @@
         "id": "16",
         "name": "Kansas",
         "color": "#008800",
-        "latitude": 39.35146111111111,
-        "longitude": -96.48292222222223
+        "latitude": 38.500699999999995,
+        "longitude": -98.3276,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -4552,8 +4584,10 @@
         "id": "17",
         "name": "Kentucky",
         "color": "#008800",
-        "latitude": 37.80897,
-        "longitude": -86.04640125
+        "latitude": 37.8185,
+        "longitude": -85.78399999999999,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -5011,8 +5045,10 @@
         "id": "18",
         "name": "Louisiana",
         "color": "#008800",
-        "latitude": 31.00712201834863,
-        "longitude": -92.22497431192659
+        "latitude": 30.952849999999998,
+        "longitude": -91.39255,
+        "covid deaths": 7742.0,
+        "covid cases": 326101.0
       }
     },
     {
@@ -5234,8 +5270,10 @@
         "id": "19",
         "name": "Massachusetts",
         "color": "#0000ff",
-        "latitude": 42.165574,
-        "longitude": -71.61171399999999
+        "latitude": 42.024,
+        "longitude": -71.62395000000001,
+        "covid deaths": 13372.0,
+        "covid cases": 448311.0
       }
     },
     {
@@ -5697,8 +5735,10 @@
         "id": "20",
         "name": "Maryland",
         "color": "#0000ff",
-        "latitude": 39.01735181818183,
-        "longitude": -77.59983636363636
+        "latitude": 38.80545,
+        "longitude": -77.1721,
+        "covid deaths": 6394.0,
+        "covid cases": 326503.0
       }
     },
     {
@@ -5944,8 +5984,10 @@
         "id": "21",
         "name": "Maine",
         "color": "#0000ff",
-        "latitude": 45.46474107142858,
-        "longitude": -69.26075714285714
+        "latitude": 45.1866,
+        "longitude": -68.97285,
+        "covid deaths": 511.0,
+        "covid cases": 27511.0
       }
     },
     {
@@ -6431,8 +6473,10 @@
         "id": "22",
         "name": "Michigan",
         "color": "#FF0000",
-        "latitude": 44.98074913793103,
-        "longitude": -85.34253965517243
+        "latitude": 45.00035,
+        "longitude": -86.2698,
+        "covid deaths": 13822.0,
+        "covid cases": 534921.0
       }
     },
     {
@@ -6806,8 +6850,10 @@
         "id": "23",
         "name": "Minnesota",
         "color": "#0000ff",
-        "latitude": 47.33683409090909,
-        "longitude": -93.51948068181818
+        "latitude": 46.44425,
+        "longitude": -93.36115000000001,
+        "covid deaths": 5710.0,
+        "covid cases": 428519.0
       }
     },
     {
@@ -7089,8 +7135,10 @@
         "id": "24",
         "name": "Missouri",
         "color": "#000088",
-        "latitude": 38.45465076923077,
-        "longitude": -91.45436307692309
+        "latitude": 38.30695,
+        "longitude": -92.42660000000001,
+        "covid deaths": 6647.0,
+        "covid cases": 460428.0
       }
     },
     {
@@ -7448,8 +7496,10 @@
         "id": "25",
         "name": "Mississippi",
         "color": "#000088",
-        "latitude": 32.82665833333334,
-        "longitude": -90.68495952380951
+        "latitude": 32.549,
+        "longitude": -89.87915000000001,
+        "covid deaths": 4162.0,
+        "covid cases": 163816.0
       }
     },
     {
@@ -7699,8 +7749,10 @@
         "id": "26",
         "name": "Montana",
         "color": "#000088",
-        "latitude": 45.74692280701754,
-        "longitude": -113.08964561403509
+        "latitude": 46.6777,
+        "longitude": -110.0322,
+        "covid deaths": 1092.0,
+        "covid cases": 89393.0
       }
     },
     {
@@ -7962,8 +8014,10 @@
         "id": "27",
         "name": "North Carolina",
         "color": "#ffff00",
-        "latitude": 35.476725,
-        "longitude": -81.14174833333333
+        "latitude": 35.1773,
+        "longitude": -79.8665,
+        "covid deaths": 7511.0,
+        "covid cases": 614114.0
       }
     },
     {
@@ -8077,8 +8131,10 @@
         "id": "28",
         "name": "North Dakota",
         "color": "#ffff00",
-        "latitude": 47.788700000000006,
-        "longitude": -97.88609565217392
+        "latitude": 47.4661,
+        "longitude": -100.3086,
+        "covid deaths": NaN,
+        "covid cases": 92058.0
       }
     },
     {
@@ -8272,8 +8328,10 @@
         "id": "29",
         "name": "Nebraska",
         "color": "#ffff00",
-        "latitude": 41.920065116279076,
-        "longitude": -97.35512325581395
+        "latitude": 41.4999,
+        "longitude": -99.6817,
+        "covid deaths": 506.0,
+        "covid cases": 59013.0
       }
     },
     {
@@ -8723,8 +8781,10 @@
         "id": "30",
         "name": "New Hampshire",
         "color": "#00ffff",
-        "latitude": 43.9991308411215,
-        "longitude": -71.7222953271028
+        "latitude": 44.0022,
+        "longitude": -71.55875,
+        "covid deaths": NaN,
+        "covid cases": 0.0
       }
     },
     {
@@ -8962,8 +9022,10 @@
         "id": "31",
         "name": "New Jersey",
         "color": "#ffff00",
-        "latitude": 40.28383518518519,
-        "longitude": -74.78467037037038
+        "latitude": 40.10325,
+        "longitude": -74.72964999999999,
+        "covid deaths": 18348.0,
+        "covid cases": 565097.0
       }
     },
     {
@@ -9021,8 +9083,10 @@
         "id": "32",
         "name": "New Mexico",
         "color": "#00ffff",
-        "latitude": 33.469766666666665,
-        "longitude": -106.97646666666668
+        "latitude": 34.165949999999995,
+        "longitude": -106.0256,
+        "covid deaths": 2934.0,
+        "covid cases": 163637.0
       }
     },
     {
@@ -9236,8 +9300,10 @@
         "id": "33",
         "name": "Nevada",
         "color": "#00ffff",
-        "latitude": 36.66445625,
-        "longitude": -115.0815625
+        "latitude": 38.50165,
+        "longitude": -117.02365,
+        "covid deaths": 3784.0,
+        "covid cases": 261847.0
       }
     },
     {
@@ -9763,8 +9829,10 @@
         "id": "34",
         "name": "New York",
         "color": "#00ffff",
-        "latitude": 43.096184920634926,
-        "longitude": -74.97289682539683
+        "latitude": 42.74625,
+        "longitude": -75.75704999999999,
+        "covid deaths": 35697.0,
+        "covid cases": 1233647.0
       }
     },
     {
@@ -9954,8 +10022,10 @@
         "id": "35",
         "name": "Ohio",
         "color": "#ff8800",
-        "latitude": 39.66713333333333,
-        "longitude": -82.55400714285715
+        "latitude": 40.34855,
+        "longitude": -82.668,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -10165,8 +10235,10 @@
         "id": "36",
         "name": "Oklahoma",
         "color": "#ff00ff",
-        "latitude": 34.41582340425532,
-        "longitude": -97.51167234042553
+        "latitude": 35.320049999999995,
+        "longitude": -98.72104999999999,
+        "covid deaths": 2987.0,
+        "covid cases": 0.0
       }
     },
     {
@@ -10688,8 +10760,10 @@
         "id": "37",
         "name": "Oregon",
         "color": "#ff00ff",
-        "latitude": 45.1477408,
-        "longitude": -120.09111439999998
+        "latitude": 44.14215,
+        "longitude": -120.59555,
+        "covid deaths": 138.0,
+        "covid cases": 10738.0
       }
     },
     {
@@ -10839,8 +10913,10 @@
         "id": "38",
         "name": "Pennsylvania",
         "color": "#ff00ff",
-        "latitude": 41.018734375,
-        "longitude": -76.062546875
+        "latitude": 41.118300000000005,
+        "longitude": -77.61564999999999,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -10942,8 +11018,10 @@
         "id": "39",
         "name": "Rhode Island",
         "color": "#ffff00",
-        "latitude": 41.6254,
-        "longitude": -71.469155
+        "latitude": 41.60025,
+        "longitude": -71.4791,
+        "covid deaths": 924.0,
+        "covid cases": 0.0
       }
     },
     {
@@ -11173,8 +11251,10 @@
         "id": "40",
         "name": "South Carolina",
         "color": "#ff8800",
-        "latitude": 33.67565961538462,
-        "longitude": -81.51581153846153
+        "latitude": 33.626400000000004,
+        "longitude": -80.9212,
+        "covid deaths": 5654.0,
+        "covid cases": 351887.0
       }
     },
     {
@@ -11300,8 +11380,10 @@
         "id": "41",
         "name": "South Dakota",
         "color": "#ff8800",
-        "latitude": 43.69302307692308,
-        "longitude": -97.86478846153847
+        "latitude": 44.210350000000005,
+        "longitude": -100.24545,
+        "covid deaths": NaN,
+        "covid cases": 94557.0
       }
     },
     {
@@ -11551,8 +11633,10 @@
         "id": "42",
         "name": "Tennessee",
         "color": "#ff8800",
-        "latitude": 35.94751754385965,
-        "longitude": -85.904749122807
+        "latitude": 35.83775,
+        "longitude": -85.98245,
+        "covid deaths": 1798.0,
+        "covid cases": 574647.0
       }
     },
     {
@@ -12258,8 +12342,10 @@
         "id": "43",
         "name": "Texas",
         "color": "#00ff88",
-        "latitude": 30.98586959064327,
-        "longitude": -98.38920701754387
+        "latitude": 31.171349999999997,
+        "longitude": -100.0621,
+        "covid deaths": 21053.0,
+        "covid cases": 1879654.0
       }
     },
     {
@@ -12309,8 +12395,10 @@
         "id": "44",
         "name": "Utah",
         "color": "#00ff88",
-        "latitude": 39.570128571428576,
-        "longitude": -111.76177142857144
+        "latitude": 39.49875,
+        "longitude": -111.5483,
+        "covid deaths": 551.0,
+        "covid cases": 77905.0
       }
     },
     {
@@ -12940,8 +13028,10 @@
         "id": "45",
         "name": "Virginia",
         "color": "#00ff88",
-        "latitude": 37.890383552631576,
-        "longitude": -79.47181052631579
+        "latitude": 38.0043,
+        "longitude": -79.323,
+        "covid deaths": NaN,
+        "covid cases": NaN
       }
     },
     {
@@ -13387,8 +13477,10 @@
         "id": "46",
         "name": "Vermont",
         "color": "#88ff00",
-        "latitude": 44.055382075471705,
-        "longitude": -72.63491698113208
+        "latitude": 43.8721,
+        "longitude": -72.4665,
+        "covid deaths": NaN,
+        "covid cases": 0.0
       }
     },
     {
@@ -13902,8 +13994,10 @@
         "id": "47",
         "name": "Washington",
         "color": "#88ff00",
-        "latitude": 46.581823577235774,
-        "longitude": -121.55245691056912
+        "latitude": 47.2733,
+        "longitude": -120.8922,
+        "covid deaths": 1949.0,
+        "covid cases": 281061.0
       }
     },
     {
@@ -14185,8 +14279,10 @@
         "id": "48",
         "name": "Wisconsin",
         "color": "#0088ff",
-        "latitude": 44.88173384615384,
-        "longitude": -89.85197538461537
+        "latitude": 44.902699999999996,
+        "longitude": -89.55435,
+        "covid deaths": 5497.0,
+        "covid cases": 523124.0
       }
     },
     {
@@ -14588,8 +14684,10 @@
         "id": "49",
         "name": "West Virginia",
         "color": "#0088ff",
-        "latitude": 38.74605157894736,
-        "longitude": -80.31805999999999
+        "latitude": 38.914550000000006,
+        "longitude": -80.1851,
+        "covid deaths": 1524.0,
+        "covid cases": 87545.0
       }
     },
     {
@@ -14631,8 +14729,10 @@
         "id": "50",
         "name": "Wyoming",
         "color": "#ff0088",
-        "latitude": 42.59952,
-        "longitude": -106.85384000000002
+        "latitude": 42.9992,
+        "longitude": -107.55475,
+        "covid deaths": NaN,
+        "covid cases": 42173.0
       }
     }
   ]
